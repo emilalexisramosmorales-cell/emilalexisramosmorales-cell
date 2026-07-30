@@ -2,11 +2,11 @@
 
 # 〔 Alexis Ramos 〕
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%F0%9F%8E%B5+Official+Creator+of+Flowify;%F0%9F%93%B1+Flutter+%26+Android+Developer;%E2%9A%A1+Building+the+future+of+music+apps;%F0%9F%9A%80+Always+shipping%2C+never+stopping;%F0%9F%94%A5+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=5000&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=%F0%9F%8E%B5+Official+Creator+of+Flowify;%F0%9F%8E%B5+Creador+oficial+de+Flowify;%F0%9F%93%B1+Flutter+%26+Android+Developer;%F0%9F%93%B1+Desarrollador+Flutter+%26+Android;%E2%9A%A1+Building+the+future+of+music+apps;%E2%9A%A1+Construyendo+el+futuro+de+las+apps+de+m%C3%BAsica;%F0%9F%9A%80+Always+shipping%2C+never+stopping;%F0%9F%9A%80+Siempre+construyendo%2C+nunca+parando;%F0%9F%94%A5+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Construyendo+apps+que+la+gente+ama+%E2%9D%A4%EF%B8%8F;C%C3%B3digo+limpio%2C+dise%C3%B1o+%C3%A9pico%2C+UX+perfecta;Flutter+al+m%C3%A1ximo+nivel+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+apps+that+people+love+%E2%9D%A4%EF%B8%8F;Construyendo+apps+que+la+gente+ama+%E2%9D%A4%EF%B8%8F;Clean+code%2C+epic+design%2C+perfect+UX;C%C3%B3digo+limpio%2C+dise%C3%B1o+%C3%A9pico%2C+UX+perfecta;Flutter+at+the+highest+level+%F0%9F%9A%80;Flutter+al+m%C3%A1ximo+nivel+%F0%9F%9A%80" />
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=600&lines=%F0%9F%8E%B5+FLOWIFY+%E2%80%94+Mi+Obra+Maestra" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=600&lines=%F0%9F%8E%B5+FLOWIFY+%E2%80%94+My+Masterpiece+%2F+Mi+Obra+Maestra" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=aaaaaa&center=true&vCenter=true&width=750&lines=El+reproductor+de+m%C3%BAsica+Android+m%C3%A1s+avanzado+en+Flutter;Cada+detalle+fue+dise%C3%B1ado+para+sorprender" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=500&color=aaaaaa&center=true&vCenter=true&width=750&lines=The+most+advanced+Android+music+player+built+in+Flutter;El+reproductor+de+m%C3%BAsica+Android+m%C3%A1s+avanzado+en+Flutter;Every+detail+was+designed+to+amaze;Cada+detalle+fue+dise%C3%B1ado+para+sorprender" />
 
 </div>
 
@@ -31,12 +31,12 @@
 <tr>
 <td width="55%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=00FF88&vCenter=true&width=430&lines=%F0%9F%8E%A8+Liquid+Glass+UI+%E2%80%94+sistema+de+dise%C3%B1o+propio;%F0%9F%8E%A4+Letras+karaoke+sincronizadas+en+tiempo+real;%F0%9F%8C%88+Paleta+din%C3%A1mica+extra%C3%ADda+por+portada;%E2%9A%A1+AudioManager+custom+con+arquitectura+robusta;%F0%9F%94%A5+Firebase+Auth+%2B+gesti%C3%B3n+de+playlists;%F0%9F%98%B4+Sleep+timer%2C+ecualizador%2C+cola+autom%C3%A1tica" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=5000&pause=500&color=00FF88&vCenter=true&width=440&lines=%F0%9F%8E%A8+Liquid+Glass+UI+%E2%80%94+custom+design+system;%F0%9F%8E%A8+Liquid+Glass+UI+%E2%80%94+sistema+de+dise%C3%B1o+propio;%F0%9F%8E%A4+Karaoke+lyrics+synced+in+real+time;%F0%9F%8E%A4+Letras+karaoke+sincronizadas+en+tiempo+real;%F0%9F%8C%88+Dynamic+palette+extracted+from+each+cover;%F0%9F%8C%88+Paleta+din%C3%A1mica+extra%C3%ADda+por+portada;%E2%9A%A1+Custom+AudioManager+%2B+robust+architecture;%E2%9A%A1+AudioManager+custom+con+arquitectura+robusta;%F0%9F%94%A5+Firebase+Auth+%2B+playlist+management;%F0%9F%94%A5+Firebase+Auth+%2B+gesti%C3%B3n+de+playlists;%F0%9F%98%B4+Sleep+timer%2C+equalizer%2C+auto-queue;%F0%9F%98%B4+Sleep+timer%2C+ecualizador%2C+cola+autom%C3%A1tica" />
 
 </td>
 <td width="45%" align="center">
 
-[![Flowify](https://github-readme-stats.vercel.app/api/pin/?username=emilalexisramosmorales-cell&repo=flowify&theme=tokyonight&border_color=00FF88&border_radius=15)](https://github.com/emilalexisramosmorales-cell/flowify)
+[![Flowify](https://github-readme-stats.vercel.app/api/pin/?username=emilalexisramosmorales-cell&repo=Flowify&theme=tokyonight&border_color=00FF88&border_radius=15)](https://github.com/emilalexisramosmorales-cell/Flowify)
 
 </td>
 </tr>
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00BFFF&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Arsenal+Tecnol%C3%B3gico" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal;%F0%9F%9B%A0%EF%B8%8F+Arsenal+Tecnol%C3%B3gico" />
 
 <br/><br/>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=5000&pause=500&color=00FF88&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats;%F0%9F%93%8A+Estad%C3%ADsticas" />
 
 <br/><br/>
 
@@ -84,21 +84,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00BFFF&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Mis+Contribuciones" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilalexisramosmorales-cell/emilalexisramosmorales-cell/output/github-snake-dark.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/emilalexisramosmorales-cell/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Alexis+Ramos+from+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;Flowify+%E2%80%94+Music+is+life+%F0%9F%8E%B5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=5000&pause=500&color=555555&center=true&vCenter=true&width=550&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Alexis+Ramos+from+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;Hecho+con+%E2%9D%A4%EF%B8%8F+por+Alexis+Ramos+desde+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;Flowify+%E2%80%94+Music+is+life+%F0%9F%8E%B5;Flowify+%E2%80%94+La+m%C3%BAsica+es+vida+%F0%9F%8E%B5" />
 
 </div>
