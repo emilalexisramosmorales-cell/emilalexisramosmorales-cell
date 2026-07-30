@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF88,100:00BFFF&height=220&section=header&text=Alexis%20Ramos&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Android%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+# 〔 Alexis Ramos 〕
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%F0%9F%8E%B5+Official+Creator+of+Flowify;%F0%9F%93%B1+Flutter+%26+Android+Developer;%E2%9A%A1+Building+the+future+of+music+apps;%F0%9F%9A%80+Always+shipping%2C+never+stopping;%F0%9F%94%A5+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=🎵+Official+Creator+of+Flowify;📱+Flutter+%26+Android+Developer;🎨+Liquid+Glass+Design+System+Author;⚡+Building+the+future+of+music+apps;🚀+Always+shipping%2C+never+stopping;🔥+El+Salvador+%7C+Mobile+Dev" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Construyendo+apps+que+la+gente+ama+%E2%9D%A4%EF%B8%8F;C%C3%B3digo+limpio%2C+dise%C3%B1o+%C3%A9pico%2C+UX+perfecta;Flutter+al+m%C3%A1ximo+nivel+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Construyendo+apps+que+la+gente+ama+❤️;Código+limpio%2C+diseño+épico%2C+UX+perfecta;Flutter+al+máximo+nivel+🚀" alt="Subtitle Typing" />
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/emilalexisramosmorales-cell?style=for-the-badge&color=00FF88&labelColor=0D0D0D&logo=github)](https://github.com/emilalexisramosmorales-cell)
-[![Profile Views](https://komarev.com/ghpvc/?username=emilalexisramosmorales-cell&style=for-the-badge&color=00FF88&labelColor=0D0D0D)](https://github.com/emilalexisramosmorales-cell)
+[![GitHub followers](https://img.shields.io/github/followers/emilalexisramosmorales-cell?style=for-the-badge&color=00FF88&labelColor=0D0D0D&logo=github&label=Followers)](https://github.com/emilalexisramosmorales-cell)
+[![Profile Views](https://komarev.com/ghpvc/?username=emilalexisramosmorales-cell&style=for-the-badge&color=00FF88&labelColor=0D0D0D&label=Profile+Views)](https://github.com/emilalexisramosmorales-cell)
 
 </div>
 
@@ -21,9 +19,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=99999&color=00FF88&center=true&vCenter=true&width=600&lines=🎵+FLOWIFY+—+Mi+Obra+Maestra" alt="Flowify Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=600&lines=%F0%9F%8E%B5+FLOWIFY+%E2%80%94+Mi+Obra+Maestra" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=aaaaaa&center=true&vCenter=true&width=700&lines=El+reproductor+de+música+Android+más+avanzado+en+Flutter;Cada+detalle+fue+diseñado+para+sorprender" alt="Flowify Desc"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=aaaaaa&center=true&vCenter=true&width=750&lines=El+reproductor+de+m%C3%BAsica+Android+m%C3%A1s+avanzado+en+Flutter;Cada+detalle+fue+dise%C3%B1ado+para+sorprender" />
 
 </div>
 
@@ -33,7 +31,7 @@
 <tr>
 <td width="55%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=00FF88&vCenter=true&width=420&lines=🎨+Liquid+Glass+UI+—+sistema+de+diseño+propio;🎤+Letras+karaoke+sincronizadas+en+tiempo+real;🌈+Paleta+dinámica+por+portada;⚡+AudioManager+custom+con+arquitectura+robusta;🔥+Firebase+Auth+%2B+gestión+de+playlists;😴+Sleep+timer%2C+ecualizador%2C+cola+automática;📂+Exclusión+de+carpetas%2C+eliminar+canciones;🎵+5000%2B+líneas+de+código+Flutter+puro" alt="Features"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=00FF88&vCenter=true&width=430&lines=%F0%9F%8E%A8+Liquid+Glass+UI+%E2%80%94+sistema+de+dise%C3%B1o+propio;%F0%9F%8E%A4+Letras+karaoke+sincronizadas+en+tiempo+real;%F0%9F%8C%88+Paleta+din%C3%A1mica+extra%C3%ADda+por+portada;%E2%9A%A1+AudioManager+custom+con+arquitectura+robusta;%F0%9F%94%A5+Firebase+Auth+%2B+gesti%C3%B3n+de+playlists;%F0%9F%98%B4+Sleep+timer%2C+ecualizador%2C+cola+autom%C3%A1tica" />
 
 </td>
 <td width="45%" align="center">
@@ -48,17 +46,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=99999&color=00BFFF&center=true&vCenter=true&width=500&lines=🛠️+Arsenal+Tecnológico" alt="Stack Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00BFFF&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Arsenal+Tecnol%C3%B3gico" />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,android,git,github,figma,vscode&theme=dark&perline=9" />
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=400&color=ffffff&center=true&vCenter=true&width=700&lines=Flutter+Expert+🔵+|+Dart+Expert+🎯+|+Android+Native+🟢+|+Firebase+🟡+|+Kotlin+🟣" alt="Stack badges"/>
-
-<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -72,13 +66,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=99999&color=00FF88&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats" alt="Stats Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=emilalexisramosmorales-cell&show_icons=true&theme=tokyonight&border_color=00FF88&border_radius=15&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emilalexisramosmorales-cell&show_icons=true&theme=tokyonight&border_color=00FF88&border_radius=15&count_private=true" height="160"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emilalexisramosmorales-cell&theme=tokyonight&border=00FF88&border_radius=15&ring=00FF88&fire=00BFFF&currStreakLabel=00FF88" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=emilalexisramosmorales-cell&theme=tokyonight&border=00FF88&border_radius=15&ring=00FF88&fire=00BFFF&currStreakLabel=00FF88" height="160"/>
 
 <br/><br/>
 
@@ -90,13 +84,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=99999&color=00BFFF&center=true&vCenter=true&width=500&lines=🐍+Mis+Contribuciones" alt="Snake Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=99999&pause=99999&color=00BFFF&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Mis+Contribuciones" />
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilalexisramosmorales-cell/emilalexisramosmorales-cell/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilalexisramosmorales-cell/emilalexisramosmorales-cell/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/emilalexisramosmorales-cell/output/github-snake-dark.svg"/>
 </picture>
 
@@ -106,18 +99,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=99999&color=00FF88&center=true&vCenter=true&width=400&lines=💭+Quote+del+día" alt="Quote Title"/>
-
-<br/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Made+with+❤️+by+Alexis+Ramos+from+El+Salvador+🇸🇻;Flowify+—+Music+is+life+🎵" alt="Footer text"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:00FF88,100:0D0D0D&height=120&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Alexis+Ramos+from+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;Flowify+%E2%80%94+Music+is+life+%F0%9F%8E%B5" />
 
 </div>
